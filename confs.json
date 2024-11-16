@@ -1,0 +1,20 @@
+{
+  "execute": "python3",
+  "executable_file": "/media/urdearhoney/390756E00536C9D6/Codes/python/TA/questions/11.py",
+  "destination": "/media/urdearhoney/390756E00536C9D6/Codes/python/TA/testCaseGenerator/testCases",
+  "zip_name": "11.py",
+  "test_cases": [
+    "10-10-2010 10:10:10\nNEW YorK",
+    "12-12-2012 13:19:13\nlondon",
+
+    "10-10-2010 10:10:10\nNEw YorK",
+    "12-12-2012 13:19:13\nlOndon",
+
+    "11-11-2011 11:11:11\ntokyo",
+    "11-11-2011 11:11:11\ntoKyo",
+
+    "12-12-1212 12:12:12\nrio de janeiro",
+    "12-12-1212 12:12:12\nrio de janeiro"
+  ],
+  "extract": 1
+}
